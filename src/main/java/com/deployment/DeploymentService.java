@@ -1,7 +1,6 @@
 package com.deploymentmonitor.deployment;
 
 import java.util.List;
-import java.util.UUID;
 
 public class DeploymentService {
 
